@@ -16,6 +16,14 @@ Este projeto é um sistema desktop simples desenvolvido em C#, com foco em Progr
 | **Composição**     | `Projeto` contém `Alocacao`, que contém `Funcionario`        | Relações entre objetos simulando vínculos reais                      |
 
 
+## 🛠️ Tecnologias utilizadas
+
+- C#
+- .NET 6
+- VSCode ou outro editor compatível com .NET
+- Programação Orientada a Objetos (POO)
+
+
 ## 🚀 Como executar
 
 1. Clone o repositório:
