@@ -1,6 +1,8 @@
 # ProjetoPOO - Sistema de Gestão de Funcionários e Projetos 
 
-## 💡 Este projeto é um sistema desktop simples desenvolvido em C#, com foco em Programação Orientada a Objetos (POO). O objetivo é automatizar o controle de funcionários, projetos e alocações de equipe, substituindo o uso de planilhas e melhorando a rastreabilidade e segurança dos dados.
+## 💡 Descrição
+
+Este projeto é um sistema desktop simples desenvolvido em C#, com foco em Programação Orientada a Objetos (POO). O objetivo é automatizar o controle de funcionários, projetos e alocações de equipe, substituindo o uso de planilhas e melhorando a rastreabilidade e segurança dos dados.
 
 
 ## 🧱 Conceitos de POO Aplicados com Clareza
