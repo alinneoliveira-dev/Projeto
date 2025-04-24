@@ -1,0 +1,15 @@
+/workspaces/ProjetoPOO/ProjetoPOO/bin/Debug/net8.0/ProjetoPOO
+/workspaces/ProjetoPOO/ProjetoPOO/bin/Debug/net8.0/ProjetoPOO.deps.json
+/workspaces/ProjetoPOO/ProjetoPOO/bin/Debug/net8.0/ProjetoPOO.runtimeconfig.json
+/workspaces/ProjetoPOO/ProjetoPOO/bin/Debug/net8.0/ProjetoPOO.dll
+/workspaces/ProjetoPOO/ProjetoPOO/bin/Debug/net8.0/ProjetoPOO.pdb
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.AssemblyInfoInputs.cache
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.AssemblyInfo.cs
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.csproj.CoreCompileInputs.cache
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.sourcelink.json
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.dll
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/refint/ProjetoPOO.dll
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.pdb
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ProjetoPOO.genruntimeconfig.cache
+/workspaces/ProjetoPOO/ProjetoPOO/obj/Debug/net8.0/ref/ProjetoPOO.dll
