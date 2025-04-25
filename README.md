@@ -1,4 +1,4 @@
-# ProjetoPOO - Sistema de Gestão de Funcionários e Projetos 
+# Projeto - Sistema de Gestão de Funcionários e Projetos 
 
 ## 💡 Descrição
 
@@ -28,4 +28,4 @@ Este projeto é um sistema desktop simples desenvolvido em C#, com foco em Progr
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/ProjetoPOO.git
+git clone https://github.com/seu-usuario/Projeto.git
